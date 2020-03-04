@@ -13,8 +13,6 @@ Infrastructure as code: Provisioning an AKS cluster using Terraform on Azure.
 
 **Azure Kubernetes Service (AKS)** manages your hosted Kubernetes environment.AKS allows you to deploy and manage containerized applications without container orchestration expertise. AKS also enables you to do many common maintenance operations without taking your app offline. These operations include provisioning, upgrading, and scaling resources on demand.
 
-> 💡By using **Terraform** to provision AKS Kubernetes clusters you can begin to both automate, but also now that you have captured it as a codified form, you can check it into version control and you get versioning.
-
 -----
 
 The following will help you to perform the tasks:
