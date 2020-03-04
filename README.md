@@ -22,13 +22,7 @@ The following will help you to perform the tasks:
 * Use Terraform and AKS to create a Kubernetes cluster
 * Use the kubectl tool to test the availability of a Kubernetes cluster
 
------
-
-> If you’re using this demo, please **★Star** this repository to show your interest!
-
------
-
-To create your Terraform-provisioned AKS cluster, you will typically follow these steps:
+To create your Terraform-provisioned AKS cluster, please follow the following steps:
 
 * Step1: Obtain the application source code
 * Step2: Define an AKS Kubernetes cluster with Terraform
@@ -47,8 +41,6 @@ git clone https://github.com/dhillonsiddharth/iac-azure-aks-tf-k8s.git
 cd iac-azure-aks-tf-k8s
 
 ```
-
-
 * Set up Azure storage to store Terraform state
 * Create the Kubernetes cluster
 
